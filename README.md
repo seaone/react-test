@@ -4,9 +4,11 @@
 
 Подробное описание: https://maxpfrontend.ru/vebinary/razbor-testovogo-zadaniya-react-redux-react-router-async/
 
+#### Установка
 ```shell
 npm install
 ```
+#### Запуск
 ```shell
 npm start
 ```
